@@ -78,3 +78,5 @@ Below is a brief overview of each directory and its intended contents:
 │   ├── research_papers.md
 │   └── ...
 └── README.md
+
+Let’s Make Marketing a Space for Genuine Connection Again!
