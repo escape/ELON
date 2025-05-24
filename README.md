@@ -73,10 +73,12 @@ Below is a brief overview of each directory and its intended contents:
 │   ├── brand_reputation_crisis.md
 │   ├── propaganda_detection_in_practice.md
 │   └── ...
-├── resources/
-│   ├── reading_list.md
-│   ├── research_papers.md
-│   └── ...
+├── prompts/
+├── README.md            # Explains purpose, how to use
+├── general-awareness.md # Prompts to raise consciousness about ELON themes
+├── bot-detection.md     # Prompts focused on identifying inauthentic behavior
+├── campaign-ethics.md   # For guiding AI through ethical marketing decisions
+└── civic-resilience.md  # Prompts for fostering democratic engagement
 └── README.md
 
 Let’s Make Marketing a Space for Genuine Connection Again!
