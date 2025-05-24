@@ -2,11 +2,10 @@
 title: Converging Ethics of Criminal Libertarianism and Extremist Rhetoric
 generated_with: ChatGPT o3 (OpenAI)
 date: 2025-05-24
-validated_by: @escape
+validated_by: brenta.io
 source_prompt: /resources/prompts/general-awareness.md
 ---
 
-# [Full AI-generated and validated essay content here]
 # Transactional Ethics in Darknet Crime vs. Algorithmic Populism: Convergence and Divergence
 
 ## Introduction  
