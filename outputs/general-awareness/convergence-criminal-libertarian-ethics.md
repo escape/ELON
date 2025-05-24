@@ -2,7 +2,7 @@
 title: Converging Ethics of Criminal Libertarianism and Extremist Rhetoric
 generated_with: ChatGPT o3 (OpenAI)
 date: 2025-05-24
-validated_by: brenta.io
+validated_by: brenta.io (validation in progress)
 source_prompt: /resources/prompts/general-awareness.md
 ---
 
