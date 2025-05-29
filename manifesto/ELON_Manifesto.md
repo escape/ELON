@@ -32,9 +32,9 @@ We cannot remain neutral in this liminal moment. Marketing is no longer just abo
 
 ## Why Technical Awareness Matters  
 
-- **“Dead Internet” Theory:** A significant portion of online “activity” may be bots interacting with bots. Marketers who remain unaware risk chasing hollow metrics or, worse, amplifying manipulative narratives.  
-- **AI-Driven Feedback Loops:** Hostile actors use iterative machine learning to refine their disinformation in real time, shaping narratives that exploit emotional triggers and political fault lines with uncanny precision.  
-- **Algorithmic Manipulation:** Recommendation engines and social feeds can be *gamed* to prioritize inflammatory content. Marketers who don’t account for this risk unintentionally fueling divisive echo chambers.  
+- **“Dead Internet” Theory:** A significant portion of online “activity” may be bots interacting with bots. Marketers who remain unaware risk chasing hollow metrics or, worse, amplifying manipulative narratives.
+- **AI-Driven Feedback Loops:** Hostile actors use iterative machine learning to refine their disinformation in real time, shaping narratives that exploit emotional triggers and political fault lines with uncanny precision.
+- **Algorithmic Manipulation:** Recommendation engines and social feeds can be *gamed* to prioritize inflammatory content. Marketers who don’t account for this risk unintentionally fueling divisive echo chambers.
 
 ---
 
