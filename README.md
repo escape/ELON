@@ -1,8 +1,11 @@
 # ELON
 
 **E**xpose 
+
 **L**earn 
+
 **O**rganize 
+
 **N**eutralize
 
 **A framework for marketing specialists committed to ethical innovation, responsible data practices, and counter-propaganda strategies.**
